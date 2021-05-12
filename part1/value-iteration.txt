@@ -1,0 +1,3 @@
+https://iq.opengenus.org/value-iteration-algorithm/
+
+-> This is fantastic resource to leatn about value-iteration algorithm
